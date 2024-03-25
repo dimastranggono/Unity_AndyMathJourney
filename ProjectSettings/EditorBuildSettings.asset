@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/cutscene.unity
+    guid: b3977eee199904d6ab3da5ebb31884a6
+  - enabled: 1
+    path: Assets/Scenes/levelsatu.unity
+    guid: 6e88726ff5a3843eab74e85f1c6d26e4
+  - enabled: 1
+    path: Assets/Scenes/cutscenelevelsatu.unity
+    guid: 4b0470ba27809456187baa294b58017c
+  - enabled: 1
+    path: Assets/Scenes/quizsatu.unity
+    guid: 8ecb6c8cef50246f3b4bbec96af18ac2
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/leveldua.unity
+    guid: 1037a65dfc1ec41049fe3a170fe7abca
+  - enabled: 1
+    path: Assets/Scenes/cutsceneleveldua.unity
+    guid: f3720229748ab4f9abab0731e1dfee9f
+  - enabled: 1
+    path: Assets/Scenes/quizdua.unity
+    guid: f0ef1999dd9294758b7e6425bc42105c
+  - enabled: 1
+    path: Assets/Scenes/quizretry.unity
+    guid: 16fb670e0466346a09b928f41e9c4653
+  - enabled: 1
+    path: Assets/Scenes/quizretrylevel2.unity
+    guid: 02e435f43a0744ab59f8adfa7c1db183
+  - enabled: 1
+    path: Assets/Scenes/Soundsetting.unity
+    guid: 6e234689d26634eef893bd0eaf57b09c
+  - enabled: 1
+    path: Assets/Scenes/cutsceneending.unity
+    guid: 8eac0d069035a4da18fa11d38f9585d0
+  - enabled: 1
+    path: Assets/Scenes/remedialscene.unity
+    guid: 03bb435e6e66044d8a686876bc6a223c
+  - enabled: 1
+    path: Assets/Scenes/cutsceneNilaiB.unity
+    guid: ea63cacdcb20740bc910448ba492eaeb
+  - enabled: 1
+    path: Assets/Scenes/cutsceneNilaiC.unity
+    guid: 08922433cc13e4e8198a48ea6fd8fe06
+  m_configObjects: {}
